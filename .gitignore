@@ -1,0 +1,46 @@
+# 编译产物
+*.o
+*.a
+*.elf
+*.hex
+*.bin
+*.map
+*.lst
+*.d
+*.su
+*.srec
+
+# 构建目录
+build/
+Debug/
+Release/
+output/
+out/
+obj/
+
+# IDE 配置（保留 .vscode 中的关键设置，忽略临时文件）
+.vscode/*.log
+
+# RT-Thread / 工具链
+.gdbinit
+*.swp
+*.swo
+*~
+
+# 系统文件
+Thumbs.db
+.DS_Store
+
+# Reasonix
+.reasonix/
+.cache/
+
+# CodeGraph（代码分析数据库）
+.codegraph/
+
+# MRS IDE 配置
+.mrs/
+
+# 其他
+*.bak
+*.orig

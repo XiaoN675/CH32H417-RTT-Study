@@ -1,0 +1,11 @@
+C:\Users\Mechrevo\Desktop\qing\H417\竞赛展演\竞赛展演\竞赛展演.wvsln:
+BuildOrder=竞赛展演_V3F,竞赛展演_V5F
+-arm:${eclipse_home}\toolchain\arm-none-eabi-gcc\bin
+-build:${eclipse_home}\toolchain\Build Tools\bin
+-openocd name:openocd.exe
+-openocd path:${eclipse_home}\toolchain\OpenOCD\bin
+-rv:${eclipse_home}\toolchain\RISC-V Embedded GCC\bin
+C:\Users\Mechrevo\Desktop\qing\H417\竞赛展演\竞赛展演\V3F
+..\V3F
+C:\Users\Mechrevo\Desktop\qing\H417\竞赛展演\竞赛展演\V5F
+..\V5F
