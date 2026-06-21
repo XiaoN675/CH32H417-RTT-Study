@@ -58,7 +58,7 @@
 
 // <e>Software timers Configuration
 // <i> Enables user timers
-#define RT_USING_TIMER_SOFT         1
+#define RT_USING_TIMER_SOFT         0
 #if RT_USING_TIMER_SOFT == 0
     #undef RT_USING_TIMER_SOFT
 #endif
@@ -81,7 +81,7 @@
 // </c>
 // <c1>Using Event
 //  <i>Using Event
-//#define RT_USING_EVENT
+#define RT_USING_EVENT
 // </c>
 // <c1>Using MailBox
 //  <i>Using MailBox

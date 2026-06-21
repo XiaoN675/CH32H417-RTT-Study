@@ -28,11 +28,6 @@
 				"parentLogicPath": "",
 				"type": "file",
 				"name": "*.wvproj"
-			},
-			{
-				"name": "LVGL",
-				"parentLogicPath": "",
-				"type": "folder"
 			}
 		],
 		"projectName": "V5F",
